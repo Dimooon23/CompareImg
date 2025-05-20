@@ -1,0 +1,3 @@
+﻿using FindImg;
+
+ScreenTool.Screenshot();
