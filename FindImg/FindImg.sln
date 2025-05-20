@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindImg", "FindImg\FindImg.csproj", "{4D94B88D-FDEF-46A5-967E-E4C5B596DF48}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindImg", "FindImg\FindImg.csproj", "{AD172ABA-5C72-4ED0-B404-F3D55DA857FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4D94B88D-FDEF-46A5-967E-E4C5B596DF48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4D94B88D-FDEF-46A5-967E-E4C5B596DF48}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4D94B88D-FDEF-46A5-967E-E4C5B596DF48}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4D94B88D-FDEF-46A5-967E-E4C5B596DF48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD172ABA-5C72-4ED0-B404-F3D55DA857FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD172ABA-5C72-4ED0-B404-F3D55DA857FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD172ABA-5C72-4ED0-B404-F3D55DA857FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD172ABA-5C72-4ED0-B404-F3D55DA857FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CA8868DA-63BC-44FA-85A3-BAEDFA5DEDCA}
+		SolutionGuid = {0D972FF1-1BF8-47E3-B601-D172C81088AF}
 	EndGlobalSection
 EndGlobal

@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace FindImg
 {
-    internal class Image
+    internal class Program
     {
+        static void Main(string[] args)
+        {
+            ScreenTools.Screenshot();
+        }
     }
 }
